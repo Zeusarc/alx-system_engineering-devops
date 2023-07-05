@@ -1,2 +1,2 @@
-#!/bi/bashn
+#!/bin/bash
 ls -lna
