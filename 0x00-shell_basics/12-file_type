@@ -1,2 +1,2 @@
-#!/bin/bashe
+#!/bin/bash
 file /tmp/iamfile
