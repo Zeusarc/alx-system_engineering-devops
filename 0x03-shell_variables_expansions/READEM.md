@@ -1,0 +1,1 @@
+Redirecting Variables im shell
